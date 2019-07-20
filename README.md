@@ -1,2 +1,5 @@
 # Deep-Learning-Neural-Networks---Projects
-This repo is dedicated to highlight my quality works done in the realm of Deep Learning implementation using various methods. Both forward and back propagation is programmed from scratch without any DL libraries. Further I have appended few of my optimization works on DL to improve its accuracy even more.
+
+This is master vault and one-window reference to analyse, build , implement and research all Deep learning projects. The idea is to help ML community in their quest to make a better world by actively contributing and collaborating through real-world projects that are data driven, decentralized and involves computation.
+
+
